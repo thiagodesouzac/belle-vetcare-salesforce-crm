@@ -247,7 +247,6 @@ Componentes gráficos para gestão em tempo real:
 | Componente | Tecnologia |
 |-----------|-----------|
 | Plataforma | Salesforce |
-| Linguagem de Configuração | Declarativa (Point & Click) |
 | Automação | Flow (Record-Triggered e Autolaunched) |
 | Interface | Lightning (App, Pages, Components) |
 | Relatórios | Salesforce Reports & Dashboards |
