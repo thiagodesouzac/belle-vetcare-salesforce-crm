@@ -53,13 +53,12 @@ Appointment__c ←→ Vet__c
 | Campo | Tipo | Descrição |
 |-------|------|-----------|
 | Nome | Text | Nome do responsável |
-| CPF | Text | CPF com validação automática |
+| CPF | Text | CPF com fórmula/validação |
 | Email | Email | Email de contato |
 | Telefone | Number | Telefone para comunicação |
 | Endereço | Text | Endereço residencial |
-| CEP | Text | CEP com validação |
+| CEP | Text | CEP com fórmula/validação |
 | Quantidade de Pets | Number | Total de animais do tutor |
-| Pet | Lookup | Relacionamento com Pet__c |
 
 #### 2. Pet__c (Paciente)
 
