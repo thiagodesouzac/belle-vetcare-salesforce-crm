@@ -136,9 +136,9 @@ Interface de navegação organizada para operação da clínica com tabs:
 - **Reports**: Relatórios operacionais
 - **Dashboards**: Indicadores gerenciais
 
-### 4. Enhanced Bot de Atendimento
+### 4. Bot de Atendimento (Enhanced)
 
-Bot conversacional implementado como porta de entrada do atendimento digital.
+Bot implementado como porta de entrada do atendimento digital.
 
 #### Jornada do Cliente
 
