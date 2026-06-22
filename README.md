@@ -158,13 +158,13 @@ Menu Principal
     └── Transfere para atendimento humano
 ```
 
-#### Flows Autolaunched do Bot
+#### Bot Flows: Autolaunched flow
 
-- **Bot Tutor Registration**: Cadastro de novo responsável
-- **Bot Pet Registration**: Cadastro de novo animal
+- **Bot Tutor Registration**: Cadastro de tutor responsável
+- **Bot Pet Registration**: Cadastro do pet
 - **Bot Appointment Scheduling**: Agendamento com validação
 - **Bot Check Tutor CPF**: Verificação de cadastro existente
-- **Bot Transfer Agent**: Transferência para atendente
+- **Bot Transfer Agent**: Transferência para atendente humano
 
 ---
 
