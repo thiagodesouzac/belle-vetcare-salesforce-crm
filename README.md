@@ -78,7 +78,7 @@ Appointment__c ←→ Vet__c
 | Campo | Tipo | Descrição |
 |-------|------|-----------|
 | Nome | Text | Nome do veterinário |
-| CRMV | Number | Registro profissional |
+| CRMV | Text | Registro profissional |
 | Email | Email | Email corporativo |
 | Telefone | Number | Telefone para contato |
 | Especialidade | Picklist | Campo de especialização |
