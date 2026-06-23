@@ -185,7 +185,7 @@ Específico para operação de recepção da clínica.
 
 #### Restrições Aplicadas
 
-- Sem permissão de delete para nenhum objeto
+- Sem permissão de deletar para nenhum objeto
 - Sem acesso visual ao campo CRMV dos veterinários
 - Acesso limitado apenas aos registros operacionais necessários
 
